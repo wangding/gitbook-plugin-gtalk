@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-gtalk",
+  "version": "0.0.1",
+  "description": "GitBook Plugin. A modern comment component based on GitHub Issue and Preact.",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/gitbook-plugin-gtalk.git"
+  },
+  "keywords": ["gitbook", "gitbook-plugin", "gitalk"],
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/gitbook-plugin-gtalk/issues"
+  },
+  "homepage": "https://github.com/wangding/gitbook-plugin-gtalk#readme"
+}
