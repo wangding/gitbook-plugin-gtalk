@@ -13,12 +13,14 @@ Add it to your `book.json`:
   "plugins": ["gtalk"],
   "pluginsConfig": {
     "gtalk": {
-      "clientID": "xxx",
-      "clientSecret": "xxx",
-      "repo": "xxx",
-      "owner": "xxx",
-      "admin": ["xxx"]
+      "clientID": "GitHub Application Client ID",
+      "clientSecret": "GitHub Application Client Secret",
+      "repo": "GitHub repo",
+      "owner": "GitHub repo owner",
+      "admin": ["GitHub repo owner and collaborators, only these guys can initialize github issues"]
     }
   }
 }
 ```
+
+Get more information about [options](https://www.npmjs.com/package/gitalk).
