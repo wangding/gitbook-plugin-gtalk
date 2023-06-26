@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-gtalk",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "GitBook Plugin. A modern comment component based on GitHub Issue and Preact.",
   "main": "index.js",
   "engines": {
